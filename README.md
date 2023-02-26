@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-  <h1 align="center">🚀 guiaPress 🚀</>
+  <h1 align="center">🚀 GuiaPress 🚀</>
   </h1>
 
 
